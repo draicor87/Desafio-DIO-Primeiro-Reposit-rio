@@ -1,0 +1,3 @@
+Git Init - Inicializa o Git
+Git Add - Avança as modificações para o Commit
+Git Commit - Commita as atualizações para o GitHub

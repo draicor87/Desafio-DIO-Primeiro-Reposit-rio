@@ -1,3 +1,5 @@
-Git Init - Inicializa o Git
-Git Add - Avança as modificações para o Commit
-Git Commit - Commita as atualizações para o GitHub
+git Init : Inicializa o Git
+git Add >projeto< : Avança as modificacoes para o Commit
+git Commit -m "anotações" : Commita as atualizações
+git push : origin main : Envia os projetos para o GitHub
+git status : Verifica o status dos projetos
